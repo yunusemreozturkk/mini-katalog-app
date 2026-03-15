@@ -81,17 +81,16 @@ Product.fromJson()
 
 ---
 
-# 📷 Screenshots
+## Screenshots
 
-## Home Screen
+### Home Screen
+![Home](screenshots/home.png)
 
-Displays product grid and search functionality.
+### Product Detail
+![Detail](screenshots/detail.png)
 
-## Product Detail Screen
-
-Shows detailed information about a selected product.
-
-*(Screenshots can be found in the `screenshots` folder.)*
+### Search
+![Search](screenshots/search.png)
 
 ---
 
