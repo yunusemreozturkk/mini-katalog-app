@@ -143,5 +143,3 @@ This project demonstrates:
 
 This project is created for educational purposes.
 
-```
-
