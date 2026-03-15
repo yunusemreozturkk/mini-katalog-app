@@ -1,5 +1,3 @@
-
-```markdown
 # 📱 Mini Katalog App
 
 Mini Katalog App is a simple Flutter mobile application that displays a small product catalog.  
