@@ -57,6 +57,14 @@ lib
 
 ---
 
+## Flutter Version
+
+Flutter 3.41.4 (Stable Channel)  
+Dart 3.11.1  
+DevTools 2.54.1
+
+---
+
 # 📦 Product Data
 
 Product data is simulated using a JSON-like structure and converted into Dart objects using a model class.
